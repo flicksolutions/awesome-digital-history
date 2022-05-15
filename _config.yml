@@ -11,5 +11,4 @@ last_edit_time_format: '%b %e %Y at %I:%M %p' # uses ruby's time format: https:/
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 remote_theme: just-the-docs/just-the-docs
 show_downloads: false
-theme: 'just-the-docs'
 title: Awesome Digital History
